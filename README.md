@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 6th-semester Information Systems student at Universitas Jenderal Achmad Yani and a full stack developer who enjoys building practical, real-world systems using Laravel for the backend and modern JavaScript frameworks like React and Next.js for the frontend. I often work on integrated platforms that include admin dashboards, authentication systems, and RESTful APIs. I'm also exploring AI-powered features such as search engines and chatbots built on large-scale text data. I value clean code, clear architecture, and purpose-driven development. Always learning, always building.<br><br>
+I'm a 7th-semester Information Systems student at Universitas Jenderal Achmad Yani and a full stack developer who enjoys building practical, real-world systems using Laravel for the backend and modern JavaScript frameworks like React and Next.js for the frontend. I often work on integrated platforms that include admin dashboards, authentication systems, and RESTful APIs. I'm also exploring AI-powered features such as search engines and chatbots built on large-scale text data. I value clean code, clear architecture, and purpose-driven development. Always learning, always building.<br><br>
 
 
 ## 🌐 Socials:
