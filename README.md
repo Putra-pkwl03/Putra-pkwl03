@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 7th-semester Information Systems student at Universitas Jenderal Achmad Yani and a full stack developer who enjoys building practical, real-world systems using Laravel for the backend and modern JavaScript frameworks like React and Next.js for the frontend. I often work on integrated platforms that include admin dashboards, authentication systems, and RESTful APIs. I'm also exploring AI-powered features such as search engines and chatbots built on large-scale text data. I value clean code, clear architecture, and purpose-driven development. Always learning, always building.<br><br>
+Saya adalah seorang Software Engineer (Fullstack Developer) yang berfokus membangun sistem berbasis web yang praktis, efisien, dan terintegrasi. Terbiasa mengembangkan aplikasi skala penuh menggunakan Laravel, Django, FastApi, Express untuk backend serta React, Vue dan Next.js untuk frontend, meliputi dashboard admin, sistem autentikasi, dan RESTful API. Selain pengembangan web, saya juga berpengalaman mengintegrasikan pemrosesan AI/Machine Learning, pemrosesan data geospasial (GIS), dan analisis data. Saya mengutamakan struktur kode yang bersih (*clean code*), arsitektur sistem yang teratur, dan pengembangan solusi yang siap pakai di dunia nyata. Always learning, always building.<br><br>
 
 
 ## 🌐 Socials:
